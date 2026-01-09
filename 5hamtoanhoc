@@ -1,0 +1,18 @@
+from math import *
+#sprt ; spuare root căn bậc 2 kq ra float
+print(sqrt(36))
+#isprt : integer square root cawn bajc 2 lays phanf nguyeen
+print(isqrt(89))
+#pow power lũy thừa ra float (a, b) a^b
+print(pow(3, 2))
+print(pow(26, 1 / 4))
+#ceil : ceiling làm tròn lên mặc kệ phần thập phân
+#floor làm tròn xống mặc kệ phần thâp phân
+print(ceil(1.01))
+print(floor(2.4))
+#factorial giai thuawf
+print(factorial(410))
+#gcd(c , d)greatest common divisor ucnn
+print(gcd(1000000, 1236))
+#comb (n, k) tổ hợp chập k của n
+print(comb(243, 4))

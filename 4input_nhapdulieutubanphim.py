@@ -1,12 +1,14 @@
-#input
+ #input
 a = input("bo m hoi gtri cua a :")
 print(type(a))
 """ép kiểu 
 int() ; ésp ra số nguyênp
 float() ép sang số thực
 str() ép chuỗi kí tự string"""
-a = int(input("bo m hoi gtri cua a :"))
+a = int(input("nhap cmm gtr cho t"))
 print(type(a))
+print(a)
+
 # nhập nhiều giá trị trên 1 dòng
 #b1 nhap cac so ra
 p = input("nhap cac so :")
@@ -16,7 +18,17 @@ t = p.split()
 x , y , z = map(int, t)
 print(x, y, z)
 
- #clean code
-  x , y , z , t = map(float(input(" nhap cac so cmmmd :").split()))
-  print( x + y *t - y )
+ #clean code doan tren
+x , y , z , t = map(float, input("yuđbibid").split())
+print(x + y - z * t)
+
+
+
+
+
+
+
+
+
+
   
