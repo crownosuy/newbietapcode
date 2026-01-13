@@ -1,2 +1,14 @@
-import math
-print(help(math))
+x = int(input())
+y = int(input())
+z = input()
+c = float(input())
+d =  float(input())
+print(x)
+print(y)
+print(z)
+print("%.3f" %c)
+print("%.9f" %d)
+#hĩdjo
+x , y , z , t = map(int , input("GYGVUBHII").split())
+print( x + y + z + t)
+print(x - y + z * t)

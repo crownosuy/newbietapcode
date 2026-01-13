@@ -32,4 +32,4 @@ print (x, y ,z ,bitch)
 <= nhỏ hơn or =
 > lonw hơn < nhỏ hơn
 """
-#
+
